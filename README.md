@@ -12,7 +12,7 @@ Luma camera, a camera application that makes Http requests to a server that cont
 
 4. Create a new Flutter project
 
-5. Copy the .dart files in the lib folder and the pubspec.yaml file in the main directory
+5. Copy the .dart files from this repository in the lib folder and the pubspec.yaml file in the project directory
 
 6. Use this command to execute the app on your phone, after that you can also install it with the apk file on the folder (your_project_folder_name/build/app/outputs/flutter-apk)
 
