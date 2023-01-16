@@ -1,10 +1,11 @@
 # Luma Camera - Programmed with Dart
 
-Luma camera, a camera application that makes Http requests to a server that controls 4 cameras without an ip and without an application to visualize them out of your home network
+Luma camera, a camera application that makes Http requests to a server
+that controls 4 cameras without an ip and without an application to visualize them out of your home network.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- First of all, you need to install [Flutter](https://docs.flutter.dev/get-started/install/). If you have some issues you can try my guide.
 
 A few resources to get you started if this is your first Flutter project:
 
