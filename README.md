@@ -13,8 +13,11 @@ Luma camera, a camera application that makes Http requests to a server that cont
 4. Open a terminal in the app and navigate into the project directory
 
    ```bash
-   $ cd openai-quickstart-python
+   $ cd luma_camera
    ```
+5. Connect your phone with debug setting enabled
+
+6. Use this command to execute the app on your phone, you can also install it with the apk file on the folder ()
 
 A few resources to get you started if this is your first Flutter project:
 
